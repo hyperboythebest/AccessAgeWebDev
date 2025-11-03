@@ -96,7 +96,7 @@ header nav a:hover {
 }
 
 .hero-image img {
-  width: 500px;
+  width: 300px;
   max-width: 100%;
   border-radius: 20px;
   animation: fadeIn 1s ease forwards;
